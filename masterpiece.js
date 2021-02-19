@@ -1,6 +1,6 @@
 const myName = 'David'; // My name
 const myFavoriteFood = 'fried chicken'; // My favorite food
-let myCity = 'Portland'; // PDX 4 lyfe
+const myCity = 'Portland'; // PDX 4 lyfe
 let myState = 'OR'; // Respective to myCity
 let myAge = 31; // My human age
 let earlyYears = 2; // Accounting for larger difference in early dog years
